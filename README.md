@@ -1,6 +1,7 @@
 # scala max os 환경설정
 ##dependency
 java jdk 1.6+ 이상
+
 java export JAVA_HOME 설정 
 
 ## homebrew install
